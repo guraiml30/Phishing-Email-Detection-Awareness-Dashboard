@@ -1,0 +1,415 @@
+sender,reply_to,subject,body,label
+Team Lead <lead@example.com>,,Password reset requested,"Hello Asha, here are this week's campus events: a coding club meetup, a career talk and a movie night. Details: https://www.example.edu/events",0
+Team Lead <lead@example.com>,,Team meeting moved to Thursday,"Hello Sara, thank you for your order. Your receipt is available at https://www.example.com/receipts/3492. Have a great day.",0
+Maria Kumar <maria@example.edu>,,Library book due reminder,"Hello Maria, here are this week's campus events: a coding club meetup, a career talk and a movie night. Details: https://www.example.edu/events",0
+Microsoft Team <microsoft.help919@gmail.com>,,Action required: verify your Microsoft password,Congratulations!!! You have won a Microsoft gift card. Claim your reward before it expires today: http://microsoft-support.example.net/login/verify?id=919,1
+Accounts <no-reply@accounts.example.com>,,Project update - sprint review,"Hi Ravi, the team meeting has moved to Thursday 3 PM in room 204. Agenda: https://www.example.com/agenda. Thanks!",0
+Team Lead <lead@example.com>,,Project update - sprint review,"Hi Ravi, your feedback for assignment 5640 is now available in the course portal. Please review before Monday's class.",0
+PayPal Support <security@paypal-secure.example.net>,reply-desk@example.org,Congratulations! You have won a free gift,Congratulations!!! You have won a PayPal gift card. Claim your reward before it expires today: http://paypal.account-verify.example.net/confirm/738,1
+Accounts <no-reply@accounts.example.com>,,Weekly newsletter: campus events,"Hello Asha, here are this week's campus events: a coding club meetup, a career talk and a movie night. Details: https://www.example.edu/events",0
+Accounts <no-reply@accounts.example.com>,,Library book due reminder,"Hello Asha, thank you for your order. Your receipt is available at https://www.example.com/receipts/1125. Have a great day.",0
+PayPal Support <security@paypal-support.example.net>,,Final notice: payment failed,Congratulations!!! You have won a PayPal gift card. Claim your reward before it expires today: http://paypal-support.example.net/login/verify?id=891,1
+Team Lead <lead@example.com>,,Library book due reminder,"Hi Omar, this is a friendly reminder that your library book is due next week. Renew at https://www.example.org/library.",0
+Library <desk@example.org>,,Your order receipt #6295,"Hello Omar, here are this week's campus events: a coding club meetup, a career talk and a movie night. Details: https://www.example.edu/events",0
+Microsoft Alerts <alert@micr0s0ft.example.org>,,Action required: verify your Microsoft password,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://192.0.2.173/secure/update,1
+Accounts <no-reply@accounts.example.com>,,Your order receipt #7807,"Hello Liam, thank you for your order. Your receipt is available at https://www.example.com/receipts/7807. Have a great day.",0
+Microsoft Alerts <alert@microsoft-support.example.org>,reply-desk@example.org,Congratulations! You have won a free gift,"Dear user, your payment failed and your Microsoft subscription will be closed. Update your payment information now: http://192.0.2.27/secure/update
+Final notice!!!",1
+Netflix Team <netflix.help805@gmail.com>,,Action required: verify your Netflix password,Congratulations!!! You have won a Netflix gift card. Claim your reward before it expires today: http://192.0.2.153/secure/update,1
+Netflix Team <netflix.help460@gmail.com>,,Final notice: payment failed,"Dear user, your payment failed and your Netflix subscription will be closed. Update your payment information now: http://192.0.2.77/secure/update
+Final notice!!!",1
+Team Lead <lead@example.com>,,Assignment 5891 feedback available,"Hello Priya, thank you for your order. Your receipt is available at https://www.example.com/receipts/5891. Have a great day.",0
+Sara Kumar <sara@example.edu>,,Weekly newsletter: campus events,"Hi Sara, you asked to reset your password. If this was you, use https://accounts.example.com/reset within an hour; otherwise ignore this email.",0
+Library <desk@example.org>,,Project update - sprint review,"Hi Sara, this is a friendly reminder that your library book is due next week. Renew at https://www.example.org/library.",0
+Accounts <no-reply@accounts.example.com>,,Library book due reminder,"Hi Omar, this is a friendly reminder that your library book is due next week. Renew at https://www.example.org/library.",0
+Team Lead <lead@example.com>,,Team meeting moved to Thursday,"Hi Liam, you asked to reset your password. If this was you, use https://accounts.example.com/reset within an hour; otherwise ignore this email.",0
+Amazon Alerts <alert@secure-amazon.example.org>,reply-desk@example.org,URGENT: Your Amazon account will be suspended,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://secure-amazon.example.net/login/verify?id=777,1
+Accounts <no-reply@accounts.example.com>,,Password reset requested,"Hello Priya, here are this week's campus events: a coding club meetup, a career talk and a movie night. Details: https://www.example.edu/events",0
+Library <desk@example.org>,,Password reset requested,"Hi Sara, this is a friendly reminder that your library book is due next week. Renew at https://www.example.org/library.",0
+Apple Support <security@secure-apple.example.net>,reply-desk@example.org,Apple security alert - unusual sign-in,"Dear customer,
+
+We detected unauthorized activity on your Apple account. Your account will be suspended within 24 hours unless you verify your password immediately.
+
+Click here to confirm your identity: http://secure-apple.example.net/login/verify?id=357
+
+Apple Security Team",1
+Accounts <no-reply@accounts.example.com>,,Weekly newsletter: campus events,"Hi Priya, you asked to reset your password. If this was you, use https://accounts.example.com/reset within an hour; otherwise ignore this email.",0
+Amazon Team <amazon.help926@gmail.com>,,Final notice: payment failed,"Dear customer,
+
+We detected unauthorized activity on your Amazon account. Your account will be suspended within 24 hours unless you verify your password immediately.
+
+Click here to confirm your identity: http://amazon.account-verify.example.net/confirm/926
+
+Amazon Security Team",1
+Accounts <no-reply@accounts.example.com>,,Team meeting moved to Thursday,"Hi Asha, this is a friendly reminder that your library book is due next week. Renew at https://www.example.org/library.",0
+Priya Kumar <priya@example.edu>,,Assignment 4109 feedback available,"Hello Priya, here are this week's campus events: a coding club meetup, a career talk and a movie night. Details: https://www.example.edu/events",0
+John Kumar <john@example.edu>,,Library book due reminder,"Hello John, here are this week's campus events: a coding club meetup, a career talk and a movie night. Details: https://www.example.edu/events",0
+Netflix Team <netflix.help532@gmail.com>,,URGENT: Your Netflix account will be suspended,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://192.0.2.47/secure/update,1
+Team Lead <lead@example.com>,,Weekly newsletter: campus events,"Hi Liam, your feedback for assignment 8430 is now available in the course portal. Please review before Monday's class.",0
+Apple Team <apple.help187@gmail.com>,reply-desk@example.org,Congratulations! You have won a free gift,"Dear user, your payment failed and your Apple subscription will be closed. Update your payment information now: http://apple.account-verify.example.net/confirm/187
+Final notice!!!",1
+Team Lead <lead@example.com>,,Your order receipt #8264,"Hi John, this is a friendly reminder that your library book is due next week. Renew at https://www.example.org/library.",0
+Team Lead <lead@example.com>,,Project update - sprint review,"Hello Sara, thank you for your order. Your receipt is available at https://www.example.com/receipts/4945. Have a great day.",0
+PayPal Team <paypal.help419@gmail.com>,reply-desk@example.org,Your PayPal account has been locked,"Dear user, your payment failed and your PayPal subscription will be closed. Update your payment information now: http://paypal.account-verify.example.net/confirm/419
+Final notice!!!",1
+Library <desk@example.org>,,Assignment 9138 feedback available,"Hello Asha, thank you for your order. Your receipt is available at https://www.example.com/receipts/9138. Have a great day.",0
+Accounts <no-reply@accounts.example.com>,,Your order receipt #2697,"Hi Liam, your feedback for assignment 2697 is now available in the course portal. Please review before Monday's class.",0
+Team Lead <lead@example.com>,,Team meeting moved to Thursday,"Hello Maria, thank you for your order. Your receipt is available at https://www.example.com/receipts/3347. Have a great day.",0
+Accounts <no-reply@accounts.example.com>,,Team meeting moved to Thursday,"Hi John, you asked to reset your password. If this was you, use https://accounts.example.com/reset within an hour; otherwise ignore this email.",0
+Team Lead <lead@example.com>,,Assignment 2443 feedback available,"Hi Liam, the team meeting has moved to Thursday 3 PM in room 204. Agenda: https://www.example.com/agenda. Thanks!",0
+PayPal Team <paypal.help889@gmail.com>,,Your PayPal account has been locked,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://paypal.account-verify.example.net/confirm/889,1
+Library <desk@example.org>,,Weekly newsletter: campus events,"Hi Liam, you asked to reset your password. If this was you, use https://accounts.example.com/reset within an hour; otherwise ignore this email.",0
+Google Team <google.help508@gmail.com>,reply-desk@example.org,Congratulations! You have won a free gift,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://google.account-verify.example.net/confirm/508,1
+Microsoft Team <microsoft.help286@gmail.com>,reply-desk@example.org,Action required: verify your Microsoft password,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://192.0.2.13/secure/update,1
+Amazon Support <security@amazon-secure.example.net>,reply-desk@example.org,URGENT: Your Amazon account will be suspended,Congratulations!!! You have won a Amazon gift card. Claim your reward before it expires today: http://192.0.2.76/secure/update,1
+Omar Kumar <omar@example.edu>,,Library book due reminder,"Hi Omar, you asked to reset your password. If this was you, use https://accounts.example.com/reset within an hour; otherwise ignore this email.",0
+Netflix Support <security@netflix-secure.example.net>,reply-desk@example.org,URGENT: Your Netflix account will be suspended,"Dear customer,
+
+We detected unauthorized activity on your Netflix account. Your account will be suspended within 24 hours unless you verify your password immediately.
+
+Click here to confirm your identity: http://192.0.2.30/secure/update
+
+Netflix Security Team",1
+Sara Kumar <sara@example.edu>,,Weekly newsletter: campus events,"Hi Sara, the team meeting has moved to Thursday 3 PM in room 204. Agenda: https://www.example.com/agenda. Thanks!",0
+Asha Kumar <asha@example.edu>,,Library book due reminder,"Hi Asha, the team meeting has moved to Thursday 3 PM in room 204. Agenda: https://www.example.com/agenda. Thanks!",0
+Microsoft Alerts <alert@secure-microsoft.example.org>,reply-desk@example.org,Congratulations! You have won a free gift,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://secure-microsoft.example.net/login/verify?id=560,1
+PayPal Support <security@paypa1.example.net>,,URGENT: Your PayPal account will be suspended,Congratulations!!! You have won a PayPal gift card. Claim your reward before it expires today: http://paypa1.example.net/login/verify?id=824,1
+Google Support <security@g00g1e.example.net>,,Action required: verify your Google password,"Dear user, your payment failed and your Google subscription will be closed. Update your payment information now: http://g00g1e.example.net/login/verify?id=704
+Final notice!!!",1
+Library <desk@example.org>,,Team meeting moved to Thursday,"Hi Priya, your feedback for assignment 7242 is now available in the course portal. Please review before Monday's class.",0
+Google Support <security@google-secure.example.net>,,Google security alert - unusual sign-in,"Valued customer, a refund of $249 is waiting. Confirm your credentials to receive it: http://192.0.2.221/secure/update. Act now.",1
+Microsoft Team <microsoft.help936@gmail.com>,reply-desk@example.org,Action required: verify your Microsoft password,"Dear user, your payment failed and your Microsoft subscription will be closed. Update your payment information now: http://192.0.2.236/secure/update
+Final notice!!!",1
+Apple Alerts <alert@apple-secure.example.org>,reply-desk@example.org,Congratulations! You have won a free gift,"Valued customer, a refund of $249 is waiting. Confirm your credentials to receive it: http://apple-secure.example.net/login/verify?id=187. Act now.",1
+PayPal Team <paypal.help158@gmail.com>,,URGENT: Your PayPal account will be suspended,"Valued customer, a refund of $249 is waiting. Confirm your credentials to receive it: http://paypal.account-verify.example.net/confirm/158. Act now.",1
+Google Team <google.help835@gmail.com>,reply-desk@example.org,Action required: verify your Google password,"Dear user, your payment failed and your Google subscription will be closed. Update your payment information now: http://192.0.2.179/secure/update
+Final notice!!!",1
+Maria Kumar <maria@example.edu>,,Password reset requested,"Hi Maria, the team meeting has moved to Thursday 3 PM in room 204. Agenda: https://www.example.com/agenda. Thanks!",0
+Accounts <no-reply@accounts.example.com>,,Project update - sprint review,"Hi Ravi, the team meeting has moved to Thursday 3 PM in room 204. Agenda: https://www.example.com/agenda. Thanks!",0
+Library <desk@example.org>,,Project update - sprint review,"Hello Liam, thank you for your order. Your receipt is available at https://www.example.com/receipts/2882. Have a great day.",0
+PayPal Team <paypal.help195@gmail.com>,,Your PayPal account has been locked,"Dear user, your payment failed and your PayPal subscription will be closed. Update your payment information now: http://secure-paypal.example.net/login/verify?id=195
+Final notice!!!",1
+Library <desk@example.org>,,Weekly newsletter: campus events,"Hi John, this is a friendly reminder that your library book is due next week. Renew at https://www.example.org/library.",0
+Library <desk@example.org>,,Password reset requested,"Hi Sara, your feedback for assignment 5655 is now available in the course portal. Please review before Monday's class.",0
+Accounts <no-reply@accounts.example.com>,,Project update - sprint review,"Hi Liam, this is a friendly reminder that your library book is due next week. Renew at https://www.example.org/library.",0
+Apple Support <security@secure-apple.example.net>,,Congratulations! You have won a free gift,"Dear customer,
+
+We detected unauthorized activity on your Apple account. Your account will be suspended within 24 hours unless you verify your password immediately.
+
+Click here to confirm your identity: http://secure-apple.example.net/login/verify?id=674
+
+Apple Security Team",1
+Amazon Alerts <alert@amaz0n.example.org>,,Action required: verify your Amazon password,"Dear customer,
+
+We detected unauthorized activity on your Amazon account. Your account will be suspended within 24 hours unless you verify your password immediately.
+
+Click here to confirm your identity: http://amaz0n.example.net/login/verify?id=260
+
+Amazon Security Team",1
+Library <desk@example.org>,,Password reset requested,"Hi John, your feedback for assignment 6724 is now available in the course portal. Please review before Monday's class.",0
+Team Lead <lead@example.com>,,Library book due reminder,"Hi Maria, you asked to reset your password. If this was you, use https://accounts.example.com/reset within an hour; otherwise ignore this email.",0
+PayPal Alerts <alert@paypa1.example.org>,,PayPal security alert - unusual sign-in,"Valued customer, a refund of $249 is waiting. Confirm your credentials to receive it: http://paypa1.example.net/login/verify?id=745. Act now.",1
+Google Support <security@google-secure.example.net>,reply-desk@example.org,Final notice: payment failed,"Dear user, your payment failed and your Google subscription will be closed. Update your payment information now: http://google-secure.example.net/login/verify?id=430
+Final notice!!!",1
+Netflix Team <netflix.help737@gmail.com>,,URGENT: Your Netflix account will be suspended,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://netflix-support.example.net/login/verify?id=737,1
+Apple Alerts <alert@apple-secure.example.org>,reply-desk@example.org,Congratulations! You have won a free gift,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://192.0.2.229/secure/update,1
+Apple Team <apple.help894@gmail.com>,reply-desk@example.org,Apple security alert - unusual sign-in,"Valued customer, a refund of $249 is waiting. Confirm your credentials to receive it: http://192.0.2.134/secure/update. Act now.",1
+Amazon Support <security@amazon-secure.example.net>,,Final notice: payment failed,"Dear user, your payment failed and your Amazon subscription will be closed. Update your payment information now: http://amazon-secure.example.net/login/verify?id=653
+Final notice!!!",1
+Netflix Team <netflix.help867@gmail.com>,,Your Netflix account has been locked,"Dear customer,
+
+We detected unauthorized activity on your Netflix account. Your account will be suspended within 24 hours unless you verify your password immediately.
+
+Click here to confirm your identity: http://netf1ix.example.net/login/verify?id=867
+
+Netflix Security Team",1
+Google Team <google.help868@gmail.com>,,Action required: verify your Google password,"Valued customer, a refund of $249 is waiting. Confirm your credentials to receive it: http://g00g1e.example.net/login/verify?id=868. Act now.",1
+Team Lead <lead@example.com>,,Password reset requested,"Hi Ravi, this is a friendly reminder that your library book is due next week. Renew at https://www.example.org/library.",0
+Netflix Support <security@netflix-secure.example.net>,reply-desk@example.org,Your Netflix account has been locked,"Dear customer,
+
+We detected unauthorized activity on your Netflix account. Your account will be suspended within 24 hours unless you verify your password immediately.
+
+Click here to confirm your identity: http://192.0.2.95/secure/update
+
+Netflix Security Team",1
+PayPal Alerts <alert@paypal-secure.example.org>,reply-desk@example.org,Final notice: payment failed,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://192.0.2.54/secure/update,1
+Accounts <no-reply@accounts.example.com>,,Your order receipt #5542,"Hi Asha, you asked to reset your password. If this was you, use https://accounts.example.com/reset within an hour; otherwise ignore this email.",0
+PayPal Alerts <alert@paypal-support.example.org>,,Congratulations! You have won a free gift,"Dear customer,
+
+We detected unauthorized activity on your PayPal account. Your account will be suspended within 24 hours unless you verify your password immediately.
+
+Click here to confirm your identity: http://192.0.2.179/secure/update
+
+PayPal Security Team",1
+Apple Team <apple.help453@gmail.com>,,Final notice: payment failed,"Valued customer, a refund of $249 is waiting. Confirm your credentials to receive it: http://192.0.2.187/secure/update. Act now.",1
+Apple Team <apple.help384@gmail.com>,reply-desk@example.org,URGENT: Your Apple account will be suspended,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://apple.account-verify.example.net/confirm/384,1
+Library <desk@example.org>,,Assignment 1243 feedback available,"Hello Maria, thank you for your order. Your receipt is available at https://www.example.com/receipts/1243. Have a great day.",0
+Apple Support <security@secure-apple.example.net>,,Your Apple account has been locked,"Valued customer, a refund of $249 is waiting. Confirm your credentials to receive it: http://apple.account-verify.example.net/confirm/641. Act now.",1
+Netflix Team <netflix.help787@gmail.com>,reply-desk@example.org,URGENT: Your Netflix account will be suspended,"Dear customer,
+
+We detected unauthorized activity on your Netflix account. Your account will be suspended within 24 hours unless you verify your password immediately.
+
+Click here to confirm your identity: http://192.0.2.166/secure/update
+
+Netflix Security Team",1
+Apple Support <security@app1e.example.net>,,Action required: verify your Apple password,"Dear user, your payment failed and your Apple subscription will be closed. Update your payment information now: http://apple.account-verify.example.net/confirm/151
+Final notice!!!",1
+Accounts <no-reply@accounts.example.com>,,Team meeting moved to Thursday,"Hello Ravi, thank you for your order. Your receipt is available at https://www.example.com/receipts/9266. Have a great day.",0
+PayPal Team <paypal.help742@gmail.com>,,Final notice: payment failed,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://paypal.account-verify.example.net/confirm/742,1
+Team Lead <lead@example.com>,,Project update - sprint review,"Hi John, the team meeting has moved to Thursday 3 PM in room 204. Agenda: https://www.example.com/agenda. Thanks!",0
+Google Alerts <alert@google-support.example.org>,reply-desk@example.org,Action required: verify your Google password,Congratulations!!! You have won a Google gift card. Claim your reward before it expires today: http://google-support.example.net/login/verify?id=381,1
+Google Support <security@g00g1e.example.net>,,Congratulations! You have won a free gift,"Dear user, your payment failed and your Google subscription will be closed. Update your payment information now: http://g00g1e.example.net/login/verify?id=872
+Final notice!!!",1
+Accounts <no-reply@accounts.example.com>,,Library book due reminder,"Hi Maria, you asked to reset your password. If this was you, use https://accounts.example.com/reset within an hour; otherwise ignore this email.",0
+Microsoft Alerts <alert@secure-microsoft.example.org>,,Congratulations! You have won a free gift,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://microsoft.account-verify.example.net/confirm/498,1
+Team Lead <lead@example.com>,,Your order receipt #9149,"Hello Asha, thank you for your order. Your receipt is available at https://www.example.com/receipts/9149. Have a great day.",0
+Google Team <google.help462@gmail.com>,,Your Google account has been locked,"Dear customer,
+
+We detected unauthorized activity on your Google account. Your account will be suspended within 24 hours unless you verify your password immediately.
+
+Click here to confirm your identity: http://192.0.2.109/secure/update
+
+Google Security Team",1
+Team Lead <lead@example.com>,,Assignment 7347 feedback available,"Hi Priya, this is a friendly reminder that your library book is due next week. Renew at https://www.example.org/library.",0
+Apple Alerts <alert@app1e.example.org>,reply-desk@example.org,Action required: verify your Apple password,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://apple.account-verify.example.net/confirm/674,1
+Google Support <security@google-support.example.net>,,Google security alert - unusual sign-in,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://google-support.example.net/login/verify?id=801,1
+Google Support <security@g00g1e.example.net>,,Action required: verify your Google password,"Dear customer,
+
+We detected unauthorized activity on your Google account. Your account will be suspended within 24 hours unless you verify your password immediately.
+
+Click here to confirm your identity: http://192.0.2.190/secure/update
+
+Google Security Team",1
+Microsoft Alerts <alert@microsoft-support.example.org>,,Final notice: payment failed,Congratulations!!! You have won a Microsoft gift card. Claim your reward before it expires today: http://microsoft-support.example.net/login/verify?id=584,1
+Asha Kumar <asha@example.edu>,,Assignment 8381 feedback available,"Hi Asha, this is a friendly reminder that your library book is due next week. Renew at https://www.example.org/library.",0
+Omar Kumar <omar@example.edu>,,Library book due reminder,"Hi Omar, you asked to reset your password. If this was you, use https://accounts.example.com/reset within an hour; otherwise ignore this email.",0
+Microsoft Alerts <alert@secure-microsoft.example.org>,reply-desk@example.org,Final notice: payment failed,"Valued customer, a refund of $249 is waiting. Confirm your credentials to receive it: http://192.0.2.63/secure/update. Act now.",1
+Library <desk@example.org>,,Password reset requested,"Hi Maria, your feedback for assignment 6731 is now available in the course portal. Please review before Monday's class.",0
+Team Lead <lead@example.com>,,Weekly newsletter: campus events,"Hi Sara, this is a friendly reminder that your library book is due next week. Renew at https://www.example.org/library.",0
+Library <desk@example.org>,,Team meeting moved to Thursday,"Hello Ravi, here are this week's campus events: a coding club meetup, a career talk and a movie night. Details: https://www.example.edu/events",0
+Team Lead <lead@example.com>,,Project update - sprint review,"Hi John, your feedback for assignment 9702 is now available in the course portal. Please review before Monday's class.",0
+Team Lead <lead@example.com>,,Weekly newsletter: campus events,"Hi Ravi, you asked to reset your password. If this was you, use https://accounts.example.com/reset within an hour; otherwise ignore this email.",0
+Accounts <no-reply@accounts.example.com>,,Weekly newsletter: campus events,"Hello John, here are this week's campus events: a coding club meetup, a career talk and a movie night. Details: https://www.example.edu/events",0
+Apple Alerts <alert@apple-support.example.org>,,Final notice: payment failed,"Valued customer, a refund of $249 is waiting. Confirm your credentials to receive it: http://apple-support.example.net/login/verify?id=692. Act now.",1
+Maria Kumar <maria@example.edu>,,Your order receipt #4871,"Hi Maria, this is a friendly reminder that your library book is due next week. Renew at https://www.example.org/library.",0
+Apple Alerts <alert@apple-support.example.org>,reply-desk@example.org,Your Apple account has been locked,"Valued customer, a refund of $249 is waiting. Confirm your credentials to receive it: http://apple-support.example.net/login/verify?id=619. Act now.",1
+Apple Alerts <alert@apple-support.example.org>,,Congratulations! You have won a free gift,Congratulations!!! You have won a Apple gift card. Claim your reward before it expires today: http://apple-support.example.net/login/verify?id=256,1
+Priya Kumar <priya@example.edu>,,Weekly newsletter: campus events,"Hi Priya, the team meeting has moved to Thursday 3 PM in room 204. Agenda: https://www.example.com/agenda. Thanks!",0
+Team Lead <lead@example.com>,,Library book due reminder,"Hi Ravi, your feedback for assignment 6120 is now available in the course portal. Please review before Monday's class.",0
+Netflix Alerts <alert@netf1ix.example.org>,reply-desk@example.org,Your Netflix account has been locked,"Dear user, your payment failed and your Netflix subscription will be closed. Update your payment information now: http://192.0.2.246/secure/update
+Final notice!!!",1
+Apple Team <apple.help535@gmail.com>,reply-desk@example.org,Your Apple account has been locked,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://apple.account-verify.example.net/confirm/535,1
+Team Lead <lead@example.com>,,Team meeting moved to Thursday,"Hi Asha, the team meeting has moved to Thursday 3 PM in room 204. Agenda: https://www.example.com/agenda. Thanks!",0
+Netflix Support <security@secure-netflix.example.net>,reply-desk@example.org,Your Netflix account has been locked,"Valued customer, a refund of $249 is waiting. Confirm your credentials to receive it: http://secure-netflix.example.net/login/verify?id=246. Act now.",1
+Netflix Alerts <alert@netflix-support.example.org>,,URGENT: Your Netflix account will be suspended,Congratulations!!! You have won a Netflix gift card. Claim your reward before it expires today: http://netflix.account-verify.example.net/confirm/492,1
+PayPal Team <paypal.help478@gmail.com>,reply-desk@example.org,Congratulations! You have won a free gift,"Valued customer, a refund of $249 is waiting. Confirm your credentials to receive it: http://paypal-support.example.net/login/verify?id=478. Act now.",1
+Apple Support <security@apple-secure.example.net>,reply-desk@example.org,Apple security alert - unusual sign-in,Congratulations!!! You have won a Apple gift card. Claim your reward before it expires today: http://apple-secure.example.net/login/verify?id=928,1
+PayPal Support <security@secure-paypal.example.net>,,Action required: verify your PayPal password,"Valued customer, a refund of $249 is waiting. Confirm your credentials to receive it: http://secure-paypal.example.net/login/verify?id=845. Act now.",1
+Library <desk@example.org>,,Weekly newsletter: campus events,"Hi Priya, this is a friendly reminder that your library book is due next week. Renew at https://www.example.org/library.",0
+Apple Support <security@app1e.example.net>,,Action required: verify your Apple password,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://192.0.2.188/secure/update,1
+PayPal Alerts <alert@secure-paypal.example.org>,,Action required: verify your PayPal password,"Dear user, your payment failed and your PayPal subscription will be closed. Update your payment information now: http://paypal.account-verify.example.net/confirm/603
+Final notice!!!",1
+Sara Kumar <sara@example.edu>,,Weekly newsletter: campus events,"Hi Sara, your feedback for assignment 7984 is now available in the course portal. Please review before Monday's class.",0
+Library <desk@example.org>,,Password reset requested,"Hi Priya, this is a friendly reminder that your library book is due next week. Renew at https://www.example.org/library.",0
+Team Lead <lead@example.com>,,Project update - sprint review,"Hi Liam, your feedback for assignment 9850 is now available in the course portal. Please review before Monday's class.",0
+Netflix Alerts <alert@netflix-secure.example.org>,,Action required: verify your Netflix password,"Dear user, your payment failed and your Netflix subscription will be closed. Update your payment information now: http://netflix-secure.example.net/login/verify?id=682
+Final notice!!!",1
+Sara Kumar <sara@example.edu>,,Assignment 6992 feedback available,"Hello Sara, here are this week's campus events: a coding club meetup, a career talk and a movie night. Details: https://www.example.edu/events",0
+PayPal Alerts <alert@paypa1.example.org>,reply-desk@example.org,Final notice: payment failed,"Dear customer,
+
+We detected unauthorized activity on your PayPal account. Your account will be suspended within 24 hours unless you verify your password immediately.
+
+Click here to confirm your identity: http://192.0.2.203/secure/update
+
+PayPal Security Team",1
+Apple Team <apple.help949@gmail.com>,,Your Apple account has been locked,"Dear customer,
+
+We detected unauthorized activity on your Apple account. Your account will be suspended within 24 hours unless you verify your password immediately.
+
+Click here to confirm your identity: http://apple.account-verify.example.net/confirm/949
+
+Apple Security Team",1
+Google Team <google.help761@gmail.com>,,URGENT: Your Google account will be suspended,Congratulations!!! You have won a Google gift card. Claim your reward before it expires today: http://192.0.2.183/secure/update,1
+Team Lead <lead@example.com>,,Team meeting moved to Thursday,"Hello John, thank you for your order. Your receipt is available at https://www.example.com/receipts/7302. Have a great day.",0
+Google Team <google.help434@gmail.com>,,Action required: verify your Google password,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://google.account-verify.example.net/confirm/434,1
+Team Lead <lead@example.com>,,Team meeting moved to Thursday,"Hi Priya, the team meeting has moved to Thursday 3 PM in room 204. Agenda: https://www.example.com/agenda. Thanks!",0
+Amazon Support <security@secure-amazon.example.net>,,Amazon security alert - unusual sign-in,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://amazon.account-verify.example.net/confirm/441,1
+Apple Alerts <alert@apple-secure.example.org>,reply-desk@example.org,Action required: verify your Apple password,Congratulations!!! You have won a Apple gift card. Claim your reward before it expires today: http://apple.account-verify.example.net/confirm/367,1
+Team Lead <lead@example.com>,,Assignment 6188 feedback available,"Hi Sara, you asked to reset your password. If this was you, use https://accounts.example.com/reset within an hour; otherwise ignore this email.",0
+PayPal Team <paypal.help373@gmail.com>,reply-desk@example.org,Your PayPal account has been locked,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://paypal-support.example.net/login/verify?id=373,1
+Google Team <google.help165@gmail.com>,reply-desk@example.org,Final notice: payment failed,"Dear customer,
+
+We detected unauthorized activity on your Google account. Your account will be suspended within 24 hours unless you verify your password immediately.
+
+Click here to confirm your identity: http://192.0.2.107/secure/update
+
+Google Security Team",1
+Priya Kumar <priya@example.edu>,,Your order receipt #7689,"Hi Priya, the team meeting has moved to Thursday 3 PM in room 204. Agenda: https://www.example.com/agenda. Thanks!",0
+Apple Team <apple.help371@gmail.com>,,Congratulations! You have won a free gift,"Dear user, your payment failed and your Apple subscription will be closed. Update your payment information now: http://apple.account-verify.example.net/confirm/371
+Final notice!!!",1
+Library <desk@example.org>,,Project update - sprint review,"Hi Priya, the team meeting has moved to Thursday 3 PM in room 204. Agenda: https://www.example.com/agenda. Thanks!",0
+Netflix Support <security@secure-netflix.example.net>,,Final notice: payment failed,"Dear customer,
+
+We detected unauthorized activity on your Netflix account. Your account will be suspended within 24 hours unless you verify your password immediately.
+
+Click here to confirm your identity: http://192.0.2.55/secure/update
+
+Netflix Security Team",1
+Accounts <no-reply@accounts.example.com>,,Password reset requested,"Hi Asha, your feedback for assignment 2121 is now available in the course portal. Please review before Monday's class.",0
+Apple Team <apple.help348@gmail.com>,,URGENT: Your Apple account will be suspended,"Dear customer,
+
+We detected unauthorized activity on your Apple account. Your account will be suspended within 24 hours unless you verify your password immediately.
+
+Click here to confirm your identity: http://192.0.2.201/secure/update
+
+Apple Security Team",1
+Library <desk@example.org>,,Password reset requested,"Hi Asha, you asked to reset your password. If this was you, use https://accounts.example.com/reset within an hour; otherwise ignore this email.",0
+Amazon Team <amazon.help825@gmail.com>,,URGENT: Your Amazon account will be suspended,"Valued customer, a refund of $249 is waiting. Confirm your credentials to receive it: http://amaz0n.example.net/login/verify?id=825. Act now.",1
+Library <desk@example.org>,,Assignment 8460 feedback available,"Hello Sara, thank you for your order. Your receipt is available at https://www.example.com/receipts/8460. Have a great day.",0
+Netflix Alerts <alert@secure-netflix.example.org>,reply-desk@example.org,URGENT: Your Netflix account will be suspended,"Dear customer,
+
+We detected unauthorized activity on your Netflix account. Your account will be suspended within 24 hours unless you verify your password immediately.
+
+Click here to confirm your identity: http://secure-netflix.example.net/login/verify?id=470
+
+Netflix Security Team",1
+Netflix Team <netflix.help670@gmail.com>,,Final notice: payment failed,"Valued customer, a refund of $249 is waiting. Confirm your credentials to receive it: http://netf1ix.example.net/login/verify?id=670. Act now.",1
+Team Lead <lead@example.com>,,Assignment 2180 feedback available,"Hi Liam, your feedback for assignment 2180 is now available in the course portal. Please review before Monday's class.",0
+Ravi Kumar <ravi@example.edu>,,Your order receipt #8673,"Hello Ravi, thank you for your order. Your receipt is available at https://www.example.com/receipts/8673. Have a great day.",0
+PayPal Support <security@paypal-support.example.net>,reply-desk@example.org,PayPal security alert - unusual sign-in,"Valued customer, a refund of $249 is waiting. Confirm your credentials to receive it: http://192.0.2.85/secure/update. Act now.",1
+Team Lead <lead@example.com>,,Library book due reminder,"Hi Liam, your feedback for assignment 3002 is now available in the course portal. Please review before Monday's class.",0
+Netflix Alerts <alert@netflix-secure.example.org>,reply-desk@example.org,Final notice: payment failed,"Dear customer,
+
+We detected unauthorized activity on your Netflix account. Your account will be suspended within 24 hours unless you verify your password immediately.
+
+Click here to confirm your identity: http://192.0.2.104/secure/update
+
+Netflix Security Team",1
+Library <desk@example.org>,,Assignment 1753 feedback available,"Hi Asha, the team meeting has moved to Thursday 3 PM in room 204. Agenda: https://www.example.com/agenda. Thanks!",0
+Accounts <no-reply@accounts.example.com>,,Weekly newsletter: campus events,"Hi Omar, your feedback for assignment 1251 is now available in the course portal. Please review before Monday's class.",0
+Netflix Support <security@secure-netflix.example.net>,reply-desk@example.org,Final notice: payment failed,"Dear customer,
+
+We detected unauthorized activity on your Netflix account. Your account will be suspended within 24 hours unless you verify your password immediately.
+
+Click here to confirm your identity: http://secure-netflix.example.net/login/verify?id=551
+
+Netflix Security Team",1
+Maria Kumar <maria@example.edu>,,Project update - sprint review,"Hi Maria, your feedback for assignment 6461 is now available in the course portal. Please review before Monday's class.",0
+Netflix Team <netflix.help621@gmail.com>,reply-desk@example.org,Final notice: payment failed,"Dear user, your payment failed and your Netflix subscription will be closed. Update your payment information now: http://192.0.2.181/secure/update
+Final notice!!!",1
+Team Lead <lead@example.com>,,Your order receipt #8046,"Hello John, here are this week's campus events: a coding club meetup, a career talk and a movie night. Details: https://www.example.edu/events",0
+Library <desk@example.org>,,Team meeting moved to Thursday,"Hi Asha, you asked to reset your password. If this was you, use https://accounts.example.com/reset within an hour; otherwise ignore this email.",0
+Apple Team <apple.help202@gmail.com>,,Apple security alert - unusual sign-in,"Dear user, your payment failed and your Apple subscription will be closed. Update your payment information now: http://apple-secure.example.net/login/verify?id=202
+Final notice!!!",1
+Team Lead <lead@example.com>,,Password reset requested,"Hi Liam, your feedback for assignment 8033 is now available in the course portal. Please review before Monday's class.",0
+Library <desk@example.org>,,Assignment 6568 feedback available,"Hi Sara, the team meeting has moved to Thursday 3 PM in room 204. Agenda: https://www.example.com/agenda. Thanks!",0
+Maria Kumar <maria@example.edu>,,Project update - sprint review,"Hi Maria, you asked to reset your password. If this was you, use https://accounts.example.com/reset within an hour; otherwise ignore this email.",0
+Microsoft Alerts <alert@micr0s0ft.example.org>,,Final notice: payment failed,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://192.0.2.63/secure/update,1
+Library <desk@example.org>,,Weekly newsletter: campus events,"Hello Priya, thank you for your order. Your receipt is available at https://www.example.com/receipts/6873. Have a great day.",0
+Netflix Support <security@netflix-support.example.net>,,Netflix security alert - unusual sign-in,"Valued customer, a refund of $249 is waiting. Confirm your credentials to receive it: http://netflix.account-verify.example.net/confirm/623. Act now.",1
+Netflix Team <netflix.help155@gmail.com>,reply-desk@example.org,Your Netflix account has been locked,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://netflix.account-verify.example.net/confirm/155,1
+Amazon Team <amazon.help597@gmail.com>,reply-desk@example.org,Your Amazon account has been locked,"Dear user, your payment failed and your Amazon subscription will be closed. Update your payment information now: http://192.0.2.8/secure/update
+Final notice!!!",1
+Asha Kumar <asha@example.edu>,,Weekly newsletter: campus events,"Hi Asha, this is a friendly reminder that your library book is due next week. Renew at https://www.example.org/library.",0
+Amazon Alerts <alert@amazon-secure.example.org>,,Your Amazon account has been locked,"Valued customer, a refund of $249 is waiting. Confirm your credentials to receive it: http://192.0.2.30/secure/update. Act now.",1
+Google Alerts <alert@google-secure.example.org>,reply-desk@example.org,Action required: verify your Google password,"Dear user, your payment failed and your Google subscription will be closed. Update your payment information now: http://google-secure.example.net/login/verify?id=195
+Final notice!!!",1
+Priya Kumar <priya@example.edu>,,Password reset requested,"Hi Priya, the team meeting has moved to Thursday 3 PM in room 204. Agenda: https://www.example.com/agenda. Thanks!",0
+Google Team <google.help296@gmail.com>,reply-desk@example.org,Your Google account has been locked,"Valued customer, a refund of $249 is waiting. Confirm your credentials to receive it: http://google.account-verify.example.net/confirm/296. Act now.",1
+Google Support <security@google-support.example.net>,,Google security alert - unusual sign-in,"Dear user, your payment failed and your Google subscription will be closed. Update your payment information now: http://google.account-verify.example.net/confirm/535
+Final notice!!!",1
+Amazon Alerts <alert@amaz0n.example.org>,reply-desk@example.org,Action required: verify your Amazon password,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://amazon.account-verify.example.net/confirm/316,1
+Google Alerts <alert@secure-google.example.org>,,Final notice: payment failed,"Dear customer,
+
+We detected unauthorized activity on your Google account. Your account will be suspended within 24 hours unless you verify your password immediately.
+
+Click here to confirm your identity: http://192.0.2.170/secure/update
+
+Google Security Team",1
+Sara Kumar <sara@example.edu>,,Assignment 2624 feedback available,"Hi Sara, your feedback for assignment 2624 is now available in the course portal. Please review before Monday's class.",0
+Microsoft Alerts <alert@microsoft-secure.example.org>,reply-desk@example.org,Action required: verify your Microsoft password,Congratulations!!! You have won a Microsoft gift card. Claim your reward before it expires today: http://microsoft-secure.example.net/login/verify?id=388,1
+Liam Kumar <liam@example.edu>,,Password reset requested,"Hello Liam, here are this week's campus events: a coding club meetup, a career talk and a movie night. Details: https://www.example.edu/events",0
+Library <desk@example.org>,,Project update - sprint review,"Hi Omar, you asked to reset your password. If this was you, use https://accounts.example.com/reset within an hour; otherwise ignore this email.",0
+Library <desk@example.org>,,Your order receipt #6083,"Hi Sara, this is a friendly reminder that your library book is due next week. Renew at https://www.example.org/library.",0
+PayPal Team <paypal.help779@gmail.com>,,URGENT: Your PayPal account will be suspended,"Valued customer, a refund of $249 is waiting. Confirm your credentials to receive it: http://paypal-secure.example.net/login/verify?id=779. Act now.",1
+Accounts <no-reply@accounts.example.com>,,Project update - sprint review,"Hi Sara, you asked to reset your password. If this was you, use https://accounts.example.com/reset within an hour; otherwise ignore this email.",0
+Sara Kumar <sara@example.edu>,,Library book due reminder,"Hi Sara, you asked to reset your password. If this was you, use https://accounts.example.com/reset within an hour; otherwise ignore this email.",0
+Library <desk@example.org>,,Assignment 9697 feedback available,"Hello Liam, thank you for your order. Your receipt is available at https://www.example.com/receipts/9697. Have a great day.",0
+Google Support <security@secure-google.example.net>,,Congratulations! You have won a free gift,"Valued customer, a refund of $249 is waiting. Confirm your credentials to receive it: http://192.0.2.49/secure/update. Act now.",1
+John Kumar <john@example.edu>,,Project update - sprint review,"Hi John, you asked to reset your password. If this was you, use https://accounts.example.com/reset within an hour; otherwise ignore this email.",0
+Team Lead <lead@example.com>,,Assignment 3815 feedback available,"Hi Liam, your feedback for assignment 3815 is now available in the course portal. Please review before Monday's class.",0
+Netflix Team <netflix.help444@gmail.com>,,Final notice: payment failed,"Dear user, your payment failed and your Netflix subscription will be closed. Update your payment information now: http://192.0.2.8/secure/update
+Final notice!!!",1
+Ravi Kumar <ravi@example.edu>,,Team meeting moved to Thursday,"Hi Ravi, this is a friendly reminder that your library book is due next week. Renew at https://www.example.org/library.",0
+Apple Support <security@apple-support.example.net>,reply-desk@example.org,Final notice: payment failed,Congratulations!!! You have won a Apple gift card. Claim your reward before it expires today: http://apple-support.example.net/login/verify?id=646,1
+Liam Kumar <liam@example.edu>,,Password reset requested,"Hi Liam, the team meeting has moved to Thursday 3 PM in room 204. Agenda: https://www.example.com/agenda. Thanks!",0
+Team Lead <lead@example.com>,,Project update - sprint review,"Hello John, thank you for your order. Your receipt is available at https://www.example.com/receipts/6267. Have a great day.",0
+Accounts <no-reply@accounts.example.com>,,Team meeting moved to Thursday,"Hi Maria, you asked to reset your password. If this was you, use https://accounts.example.com/reset within an hour; otherwise ignore this email.",0
+Library <desk@example.org>,,Library book due reminder,"Hi Priya, the team meeting has moved to Thursday 3 PM in room 204. Agenda: https://www.example.com/agenda. Thanks!",0
+Team Lead <lead@example.com>,,Assignment 2225 feedback available,"Hi Maria, this is a friendly reminder that your library book is due next week. Renew at https://www.example.org/library.",0
+PayPal Support <security@paypal-support.example.net>,,Your PayPal account has been locked,"Valued customer, a refund of $249 is waiting. Confirm your credentials to receive it: http://192.0.2.172/secure/update. Act now.",1
+Liam Kumar <liam@example.edu>,,Your order receipt #2391,"Hello Liam, thank you for your order. Your receipt is available at https://www.example.com/receipts/2391. Have a great day.",0
+Amazon Team <amazon.help879@gmail.com>,reply-desk@example.org,Amazon security alert - unusual sign-in,"Dear customer,
+
+We detected unauthorized activity on your Amazon account. Your account will be suspended within 24 hours unless you verify your password immediately.
+
+Click here to confirm your identity: http://192.0.2.226/secure/update
+
+Amazon Security Team",1
+Netflix Team <netflix.help214@gmail.com>,,URGENT: Your Netflix account will be suspended,"Dear user, your payment failed and your Netflix subscription will be closed. Update your payment information now: http://192.0.2.238/secure/update
+Final notice!!!",1
+Netflix Alerts <alert@netf1ix.example.org>,reply-desk@example.org,Action required: verify your Netflix password,Congratulations!!! You have won a Netflix gift card. Claim your reward before it expires today: http://netf1ix.example.net/login/verify?id=175,1
+PayPal Alerts <alert@paypal-support.example.org>,,Final notice: payment failed,"Dear customer,
+
+We detected unauthorized activity on your PayPal account. Your account will be suspended within 24 hours unless you verify your password immediately.
+
+Click here to confirm your identity: http://paypal-support.example.net/login/verify?id=170
+
+PayPal Security Team",1
+Google Alerts <alert@secure-google.example.org>,reply-desk@example.org,Final notice: payment failed,"Valued customer, a refund of $249 is waiting. Confirm your credentials to receive it: http://secure-google.example.net/login/verify?id=793. Act now.",1
+Netflix Support <security@netflix-support.example.net>,reply-desk@example.org,URGENT: Your Netflix account will be suspended,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://netflix.account-verify.example.net/confirm/373,1
+Accounts <no-reply@accounts.example.com>,,Assignment 7274 feedback available,"Hello John, here are this week's campus events: a coding club meetup, a career talk and a movie night. Details: https://www.example.edu/events",0
+Library <desk@example.org>,,Team meeting moved to Thursday,"Hello Sara, thank you for your order. Your receipt is available at https://www.example.com/receipts/1430. Have a great day.",0
+Amazon Alerts <alert@amazon-secure.example.org>,reply-desk@example.org,Congratulations! You have won a free gift,"Dear customer,
+
+We detected unauthorized activity on your Amazon account. Your account will be suspended within 24 hours unless you verify your password immediately.
+
+Click here to confirm your identity: http://amazon.account-verify.example.net/confirm/448
+
+Amazon Security Team",1
+Microsoft Support <security@microsoft-secure.example.net>,,Microsoft security alert - unusual sign-in,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://192.0.2.182/secure/update,1
+Amazon Team <amazon.help540@gmail.com>,reply-desk@example.org,URGENT: Your Amazon account will be suspended,Congratulations!!! You have won a Amazon gift card. Claim your reward before it expires today: http://amazon-support.example.net/login/verify?id=540,1
+Amazon Alerts <alert@amazon-support.example.org>,,Action required: verify your Amazon password,Congratulations!!! You have won a Amazon gift card. Claim your reward before it expires today: http://amazon.account-verify.example.net/confirm/720,1
+Accounts <no-reply@accounts.example.com>,,Assignment 3842 feedback available,"Hi John, your feedback for assignment 3842 is now available in the course portal. Please review before Monday's class.",0
+Microsoft Support <security@microsoft-support.example.net>,reply-desk@example.org,URGENT: Your Microsoft account will be suspended,Congratulations!!! You have won a Microsoft gift card. Claim your reward before it expires today: http://microsoft-support.example.net/login/verify?id=881,1
+Amazon Alerts <alert@amazon-secure.example.org>,,Amazon security alert - unusual sign-in,"Dear customer,
+
+We detected unauthorized activity on your Amazon account. Your account will be suspended within 24 hours unless you verify your password immediately.
+
+Click here to confirm your identity: http://amazon-secure.example.net/login/verify?id=357
+
+Amazon Security Team",1
+Liam Kumar <liam@example.edu>,,Assignment 7512 feedback available,"Hi Liam, this is a friendly reminder that your library book is due next week. Renew at https://www.example.org/library.",0
+Apple Alerts <alert@app1e.example.org>,reply-desk@example.org,URGENT: Your Apple account will be suspended,"Dear customer,
+
+We detected unauthorized activity on your Apple account. Your account will be suspended within 24 hours unless you verify your password immediately.
+
+Click here to confirm your identity: http://192.0.2.189/secure/update
+
+Apple Security Team",1
+Accounts <no-reply@accounts.example.com>,,Library book due reminder,"Hi Omar, this is a friendly reminder that your library book is due next week. Renew at https://www.example.org/library.",0
+Sara Kumar <sara@example.edu>,,Password reset requested,"Hi Sara, this is a friendly reminder that your library book is due next week. Renew at https://www.example.org/library.",0
+PayPal Support <security@paypal-support.example.net>,,Congratulations! You have won a free gift,"Dear user, your payment failed and your PayPal subscription will be closed. Update your payment information now: http://192.0.2.17/secure/update
+Final notice!!!",1
+Accounts <no-reply@accounts.example.com>,,Password reset requested,"Hi Ravi, this is a friendly reminder that your library book is due next week. Renew at https://www.example.org/library.",0
+Accounts <no-reply@accounts.example.com>,,Library book due reminder,"Hi Liam, the team meeting has moved to Thursday 3 PM in room 204. Agenda: https://www.example.com/agenda. Thanks!",0
+Ravi Kumar <ravi@example.edu>,,Team meeting moved to Thursday,"Hello Ravi, here are this week's campus events: a coding club meetup, a career talk and a movie night. Details: https://www.example.edu/events",0
+Asha Kumar <asha@example.edu>,,Weekly newsletter: campus events,"Hi Asha, the team meeting has moved to Thursday 3 PM in room 204. Agenda: https://www.example.com/agenda. Thanks!",0
+Priya Kumar <priya@example.edu>,,Team meeting moved to Thursday,"Hello Priya, here are this week's campus events: a coding club meetup, a career talk and a movie night. Details: https://www.example.edu/events",0
+Accounts <no-reply@accounts.example.com>,,Library book due reminder,"Hello John, thank you for your order. Your receipt is available at https://www.example.com/receipts/4538. Have a great day.",0
+Netflix Team <netflix.help902@gmail.com>,reply-desk@example.org,Your Netflix account has been locked,"Valued customer, a refund of $249 is waiting. Confirm your credentials to receive it: http://192.0.2.201/secure/update. Act now.",1
+Library <desk@example.org>,,Library book due reminder,"Hi Maria, the team meeting has moved to Thursday 3 PM in room 204. Agenda: https://www.example.com/agenda. Thanks!",0
+Netflix Team <netflix.help851@gmail.com>,reply-desk@example.org,Final notice: payment failed,Suspicious sign-in detected. Log in to verify your account right away or your account has been locked permanently: http://netflix.account-verify.example.net/confirm/851,1
+Library <desk@example.org>,,Weekly newsletter: campus events,"Hi Asha, your feedback for assignment 2336 is now available in the course portal. Please review before Monday's class.",0
+Maria Kumar <maria@example.edu>,,Assignment 7797 feedback available,"Hello Maria, here are this week's campus events: a coding club meetup, a career talk and a movie night. Details: https://www.example.edu/events",0
+Amazon Support <security@amazon-support.example.net>,,Congratulations! You have won a free gift,Congratulations!!! You have won a Amazon gift card. Claim your reward before it expires today: http://192.0.2.223/secure/update,1
