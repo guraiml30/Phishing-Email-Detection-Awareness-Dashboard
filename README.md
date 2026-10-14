@@ -41,8 +41,6 @@ Each rule adds points; each category (URL 40, SENDER 35, CONTENT 40) is capped; 
 ## Limitations
 Heuristic rules can misfire; no SPF/DKIM/DMARC checks, attachment analysis or threat-intel lookups; synthetic data means reported accuracy is not real-world accuracy. See `docs/ARCHITECTURE.md`.
 
-## Screenshots
-Add: Analyze (high-risk result), Dashboard, History, Learn page → `screenshots/`, then embed with `![Analyze](screenshots/analyze.png)`.
 
 ## License
 MIT
